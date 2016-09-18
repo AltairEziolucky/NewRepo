@@ -9,8 +9,8 @@ class Student
 		
 		System.out.println("i love java coding ");
                 System.out.println("hi this is mayank");
-
-		System.out.println("Static Block Called");
+                System.out.println("hi this is mayank");
+		System.out.println("yo baby ");
 		crse="JAVA";
 
 	}
