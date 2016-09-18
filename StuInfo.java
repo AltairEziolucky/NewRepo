@@ -10,7 +10,7 @@ class Student
 		System.out.println("i love java coding ");
                 System.out.println("hi this is mayank");
                 System.out.println("hi this is mayank");
-		System.out.println("yo baby ");
+		System.out.println("yo baby how r you");
 		crse="JAVA";
 
 	}
